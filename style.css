@@ -88,20 +88,23 @@ h2 {
     font-size: 3em;
 }
 
+#div-figure {
+    text-align: center;
+    padding: 0px;
+}
+
 .img-projeto {
     max-width: 300px;
     max-height: 500px;
     margin: 0 auto;
-    padding: 5px;
 }
 
 figcaption {
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    width: 270px;
-    padding: 0 auto;
+    width: 280px;
+    margin: auto;
+    padding: 10px;
     background-color: #000000;
+    color: white;
 }
 
 /* Media queries */
